@@ -44,7 +44,7 @@ class Warrior extends Hero{
     }
 }
 
-class Mage extends Hero{
+class Wizard extends Hero{
     constructor(name, health, attack, mana){
         super(name, health, attack);
         this.mana = mana;
@@ -76,7 +76,7 @@ console.log(Furion.totalAttack());
 
 
 
-const Invoker = new Mage("Invoker", 80, 50, 90);
+const Invoker = new Wizard("Invoker", 100, 10, 90);
 Invoker.getName();
 Invoker.getAttack();
 Invoker.addItem(staff);
