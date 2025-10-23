@@ -1,0 +1,11 @@
+{
+    "labels":["Versatility","Pushing", "Supporting", "Farming", "Fighting"],
+    "datasets":[
+        {
+        "label":"Sven",
+        "data":[13,34,0,75,91],
+        "backgroundColor":"rgba(75,192,192,0.2)",
+        "bordercolor":"rgba(75,192,192,0.2)"
+        }
+    ]
+}
