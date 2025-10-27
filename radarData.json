@@ -2,9 +2,15 @@
     "labels":["Versatility","Pushing", "Supporting", "Farming", "Fighting"],
     "datasets":[
         {
-        "label":"Sven",
+        "label":"Blunder",
         "data":[13,34,0,75,91],
         "backgroundColor":"rgba(75,192,192,0.2)",
+        "bordercolor":"rgba(75,192,192,0.2)"
+        },
+        {
+        "label":"Hiruma",
+        "data":[83,75,12,72,91],
+        "backgroundColor":"rgba(10,290,192,0.2)",
         "bordercolor":"rgba(75,192,192,0.2)"
         }
     ]
